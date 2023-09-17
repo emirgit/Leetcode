@@ -1,6 +1,7 @@
 /*
 0ms Beats 100.00%
-6.53MB Beats 5.43%*/
+6.53MB Beats 5.43%
+*/
 
 
 int* counter(char *str){
@@ -21,7 +22,7 @@ int* counter(char *str){
 
 
 
-int isAnagram(char * s, char * t){
+bool isAnagram(char * s, char * t){
     /*
     ascii 122 (z) - 97 (a) + 1 = 26 char
 
