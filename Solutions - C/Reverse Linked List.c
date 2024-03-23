@@ -1,8 +1,8 @@
 /*
 Time C.
-0ms ms Beats 100.00%
+94ms Beats 92.61%
 Space C.
-6.05 MB Beats 83.65%
+41.00 MB Beats 82.34%
 */
 
 struct ListNode* reverseList(struct ListNode* head) {
