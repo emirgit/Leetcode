@@ -1,6 +1,6 @@
 /*
 Time C.
-32ms ms Beats 92.40%
+32ms Beats 92.40%
 Space C.
 35.90 MB Beats 90.94%
 */
