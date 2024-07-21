@@ -7,7 +7,6 @@ Space C.
 43.32 MB Beats 8.42%
 */
 
-
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int r, l, mid;
