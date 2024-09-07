@@ -1,8 +1,10 @@
-class Solution:
     """
     Runtime Beats 17.46%
     Memory  Beats 36.21%
     """
+
+class Solution:
+
     
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         """
